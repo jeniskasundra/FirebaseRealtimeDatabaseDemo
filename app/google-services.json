@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "880595071893",
+    "firebase_url": "https://testproject-dde1f.firebaseio.com",
+    "project_id": "testproject-dde1f",
+    "storage_bucket": "testproject-dde1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880595071893:android:87d284176d46abde",
+        "android_client_info": {
+          "package_name": "com.jenisk.firebase_realtime_db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880595071893-ct36ds1rlkbd4f161lp18k0i6nkamo5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuL0kgZD3SLFYH2GjI7NeRY4BUBaS2iNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
